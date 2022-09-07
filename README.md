@@ -8,3 +8,6 @@ mkdir: Crear un directorio
 rm dir: Borrar un directorio
 exit: salir 
 cat: muestra el contenido del archivo
+cd.. sube un nivel 
+git add: Guardar los cambios en el repos. público
+git restore: Quitar los cambios
